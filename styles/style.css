@@ -23,10 +23,11 @@ fagu {
 }
 body {
     width: 600px;
-    margin: 0 auto;
+    margin: 20px auto;
     padding: 20px 20px 20px 20px;
     border: 3px dotted pink;
 }
+
 img {
     display: block;
     width: inherit;
