@@ -1,0 +1,36 @@
+html {
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Libertius Mono", monospace;
+    //margin: 64px;
+    //background-color: #111111;
+    //color: white;
+    color-scheme: dark;
+h1 {
+    font-size: 14px;
+    font-style: italic;
+    text-shadow: -1px -1px 5px gray;
+    cursor: pointer;
+}
+ol {
+    line-height: 16px;
+    letter-spacing: 0.5px;
+    text-align: justify;
+}
+fagu {
+    color: purple;
+    padding: 0 0 0 20px;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    border: 3px dotted pink;
+}
+img {
+    display: block;
+    width: inherit;
+    max-width: 100%;
+    box-shadow: purple 0 0 15px;
+    cursor: pointer;
+}
